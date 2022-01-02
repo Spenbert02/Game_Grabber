@@ -52,95 +52,103 @@ of that class where indicated in the GameGrabber class.
 2) Rock Paper Scissors
 3) Word jumble
 4) Quit
-Pick a game (0-4)> 0
+Pick a game (0-4)>> 0
+
 I've picked a 4 letter word. Guess letters you think are in the word. You get 10 guesses.
-Enter Your Move or 'quit' to quit> a
+Enter Your Move or 'quit' to quit>> a
 ____
-Enter Your Move or 'quit' to quit> e
+Enter Your Move or 'quit' to quit>> e
 ____
-Enter Your Move or 'quit' to quit> i
+Enter Your Move or 'quit' to quit>> i
 ____
-Enter Your Move or 'quit' to quit> o
+Enter Your Move or 'quit' to quit>> o
 _o__
-Enter Your Move or 'quit' to quit> u
+Enter Your Move or 'quit' to quit>> u
 _o__
-Enter Your Move or 'quit' to quit> n
+Enter Your Move or 'quit' to quit>> n
 _o__
-Enter Your Move or 'quit' to quit> r
+Enter Your Move or 'quit' to quit>> r
 _o__
-Enter Your Move or 'quit' to quit> s
+Enter Your Move or 'quit' to quit>> s
 _o__
-Enter Your Move or 'quit' to quit> t
+Enter Your Move or 'quit' to quit>> t
 _o__
-Enter Your Move or 'quit' to quit> w
+Enter Your Move or 'quit' to quit>> w
 _o__
 The word was: lock
+
 0) Hangman
 1) Number Guesser
 2) Rock Paper Scissors
 3) Word jumble
 4) Quit
-Pick a game (0-4)> 1
+Pick a game (0-4)>> 1
+
 I've picked a number 1 to 1024. You get 10 guesses to guess it
-Enter Your Move or 'quit' to quit> 512
+Enter Your Move or 'quit' to quit>> 512
 Too High
-Enter Your Move or 'quit' to quit> 256
+Enter Your Move or 'quit' to quit>> 256
 Too High
-Enter Your Move or 'quit' to quit> 128
+Enter Your Move or 'quit' to quit>> 128
 Too Low
-Enter Your Move or 'quit' to quit> 192
+Enter Your Move or 'quit' to quit>> 192
 Too High
-Enter Your Move or 'quit' to quit> 160
+Enter Your Move or 'quit' to quit>> 160
 Too High
-Enter Your Move or 'quit' to quit> 144
+Enter Your Move or 'quit' to quit>> 144
 Too High
-Enter Your Move or 'quit' to quit> 136
+Enter Your Move or 'quit' to quit>> 136
 Too Low
-Enter Your Move or 'quit' to quit> 140
+Enter Your Move or 'quit' to quit>> 140
 Too High
-Enter Your Move or 'quit' to quit> 138
+Enter Your Move or 'quit' to quit>> 138
 Too High
-Enter Your Move or 'quit' to quit> 137
+Enter Your Move or 'quit' to quit>> 137
 That's it!
 The number was: 137
+
 0) Hangman
 1) Number Guesser
 2) Rock Paper Scissors
 3) Word jumble
 4) Quit
-Pick a game (0-4)> 2
+Pick a game (0-4)>> 2
+
 Enter rock, paper, or scissors. Beat me 3 times before I win 3 times!
-Enter Your Move or 'quit' to quit> rock
+Enter Your Move or 'quit' to quit>> rock
 rock vs. rock: Tie
-Enter Your Move or 'quit' to quit> rock
+Enter Your Move or 'quit' to quit>> rock
 scissors vs. rock: You Win
-Enter Your Move or 'quit' to quit> rock
+Enter Your Move or 'quit' to quit>> rock
 scissors vs. rock: You Win
-Enter Your Move or 'quit' to quit> rock
+Enter Your Move or 'quit' to quit>> rock
 rock vs. rock: Tie
-Enter Your Move or 'quit' to quit> paper
+Enter Your Move or 'quit' to quit>> paper
 scissors vs. paper: You Lose
-Enter Your Move or 'quit' to quit> rock
+Enter Your Move or 'quit' to quit>> rock
 paper vs. rock: You Lose
-Enter Your Move or 'quit' to quit> paper
+Enter Your Move or 'quit' to quit>> paper
 paper vs. paper: Tie
-Enter Your Move or 'quit' to quit> scissors
+Enter Your Move or 'quit' to quit>> scissors
 paper vs. scissors: You Win
 You win the set!
+
 0) Hangman
 1) Number Guesser
 2) Rock Paper Scissors
 3) Word jumble
 4) Quit
-Pick a game (0-4)> 3
+Pick a game (0-4)>> 3
+
 The following is a jumbled up word: knec You get 10 guesses to guess it
-Enter Your Move or 'quit' to quit> neck
+Enter Your Move or 'quit' to quit>> neck
 The word was neck
+
 0) Hangman
 1) Number Guesser
 2) Rock Paper Scissors
 3) Word jumble
 4) Quit
-Pick a game (0-4)> 4
+Pick a game (0-4)>> 4
 Goodbye...
 ```

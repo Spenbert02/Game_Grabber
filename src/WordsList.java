@@ -1,6 +1,8 @@
 import java.util.Random;
 
 /**
+ * PROVIDED BY PROFESSOR DANIEL KLUVER AT THE UNIVERSITY OF MINNESOTA
+ *
  * A WordsList represents a list of words.
  * ultimately, this is a helper-class it's major purpose is to store
  * the list of words, and provide easy access to the words within.

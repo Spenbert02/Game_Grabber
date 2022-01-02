@@ -76,13 +76,15 @@ public class GameGrabber {
         games[0] = new Hangman(wordsList, 0, 20, 10);
 
         // creating and adding a NumberGuesser game object to the games array
-        games[1] = new NumberGuesser(new Random(), 32768, 15);
+        games[1] = new NumberGuesser(new Random(), 1024, 10);
 
         // creating and adding an RPS Game object to the games array
         games[2] = new RPS(new Random(), 3, 3);
 
         // creating and adding a WordJumble object to the games array
         games[3] = new WordJumble(wordsList, new Random(), 0, 20, 10);
+
+        /* new game objects can be instantiated here and added to the games array */
 
         Scanner scanner = new Scanner(System.in);
 
